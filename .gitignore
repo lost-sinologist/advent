@@ -1,1 +1,2 @@
-*.problem
+__pycache__
+venv
