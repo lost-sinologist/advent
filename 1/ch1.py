@@ -1,6 +1,7 @@
+with open("ch1.problem") as f:
+    problem = f.read().split("\n")
+    
 def main():
-    with open("ch1.problem") as f:
-        problem = f.read().split("\n")
         
     solution = 0
     
